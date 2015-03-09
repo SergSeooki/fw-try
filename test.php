@@ -1,4 +1,4 @@
 <?php
 //phpinfo();
 echo 'hi Git';
-echo "<br>why?"
+echo "<br>why?";
